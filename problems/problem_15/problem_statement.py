@@ -12,4 +12,4 @@ How many such routes are there through a 20x20 grid?
 
 """
 
-NUM_SQUARES = 20 ** 2
+GRID_SIZE = [20, 20]
